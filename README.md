@@ -1,5 +1,5 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=⚡%20yujeong%20⚡&fontSize=30)
+<div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
 
 ### 💻 Tech Stacks 💻
@@ -9,3 +9,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong811&show_icons=true&theme=radical)
+</div>
