@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20yujeong%20&fontSize=45)
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
+
 ## 🤟 Who I am 🤟
 
 ## 💻 Tech Stacks 💻
