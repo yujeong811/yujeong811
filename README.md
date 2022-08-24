@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20I'm%20yujeong%20&fontSize=45)
 <div align="center">  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong811&count_bg=%23FFBBCA&title_bg=%23FF7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
 
 ### 🤟 Who I am 🤟
@@ -11,7 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong811&layout=compact)](https://github.com/yujeong811/github-readme-stats)
 <br/><br/><br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujeong811&count_bg=%23FFBBCA&title_bg=%23FF7474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong811&show_icons=true&theme=radical)
 </div>
