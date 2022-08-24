@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🌱웹개발자%20이유정입니다🌱&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🌱웹개발자%20이유정입니다🌱&fontSize=50)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujeong811&layout=compact)](https://github.com/yujeong811/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong811&show_icons=true&theme=radical)
