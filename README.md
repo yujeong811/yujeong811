@@ -4,7 +4,7 @@
 <div align=center>  
 <img width="100%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
 
-### 🤟 Who I am I 🤟
+### 🤟 Who I am 🤟
 백엔드 개발자를 꿈꾸고 있는 이유정입니다<br/> 
 뭐든 배우려는 자세로 임하고 있습니다🔍 <br/><br/><br/>  
 ### 💻 Tech Stacks 💻
